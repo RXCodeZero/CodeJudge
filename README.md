@@ -198,6 +198,10 @@ const problems = {
 
 ---
 
-## License
+## Screenshots:
+<img width="1868" height="939" alt="Screenshot 2025-08-03 211440" src="https://github.com/user-attachments/assets/f7418308-2fe3-4f5c-b4d0-e803dd05a817" />
+<img width="1871" height="937" alt="Screenshot 2025-08-03 211453" src="https://github.com/user-attachments/assets/4eaa74c6-70d7-415c-932c-eb535dca21a8" />
+<img width="1869" height="942" alt="Screenshot 2025-08-03 211511" src="https://github.com/user-attachments/assets/be0c2a3f-5b88-40f1-8274-507dff34e7dc" />
+<img width="1865" height="943" alt="Screenshot 2025-08-03 211527" src="https://github.com/user-attachments/assets/f9a6a011-5307-4b20-8194-20470bb81bcb" />
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
